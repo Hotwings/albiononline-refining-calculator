@@ -2905,9 +2905,9 @@ function changeAgeIndicator(element, age) {
 
     const diff = Math.abs(dateUTC0 - priceDate) / 1000 / 60;
 
-    if (diff < 30) {
+    if (diff < 10) {
         element.style.borderBottomColor = "green";
-    } else if (diff < 240) {
+    } else if (diff < 60) {
         element.style.borderBottomColor = "yellow";
     } else {
         element.style.borderBottomColor = "#cc6600";
