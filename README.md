@@ -3,7 +3,7 @@
 ##### Warning - Abandon all hope, ye who enter here! This calculator was initially made quickly for personal use, and is now a kitchen sink full of bad practises and technical debt.
 
 
-#### https://brannstroom.github.io/albiononline-refining-calculator/
+#### https://hotwings.github.io/albiononline-refining-calculator/
 
 An efficient and easy-to-use, web-based resource refining calculator designed to help players calculate profits, focus costs, and more to optimize their profits and crafting strategies in Albion Online.
 
